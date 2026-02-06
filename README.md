@@ -3,23 +3,12 @@
 
 A macOS Tahoe like theme for Linux GTK Desktops
 
-Based on WhiteSur GTK Theme:
-[https://github.com/vinceliuice/WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme)
-
-
-
-
-
-
-
 ### screenshot
 <p align="center"> <img src="screenshot01.jpeg"/> </p>
 
 ## Donate
 
 If you like my project, you can buy me a coffee, many thanks ❤️ !
-
-<span class="paypal"><a href="https://www.paypal.me/vinceliuice" title="Donate to this project using Paypal"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png" alt="PayPal donate button" /></a></span>
 
 # Installation is easy!
 <details> <summary> Required dependencies <b>(click to open)</b> </summary>
@@ -52,7 +41,7 @@ Don't worry, MacTahoe installer already provides all of those dependencies.
 
 ### Installing from source
 
-1. Run `git clone https://github.com/vinceliuice/MacTahoe-gtk-theme.git --depth=1`
+1. Run `git clone  https://github.com/Aetherlabs-ayush/MacTahoe-gtk-theme--depth=1`
 
 2. Run `./install.sh` to install the default MacTahoe GTK theme pack.
 
